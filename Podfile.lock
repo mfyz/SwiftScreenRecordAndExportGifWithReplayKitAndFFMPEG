@@ -1,0 +1,16 @@
+PODS:
+  - mobile-ffmpeg-full (4.3.1)
+
+DEPENDENCIES:
+  - mobile-ffmpeg-full (~> 4.3.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - mobile-ffmpeg-full
+
+SPEC CHECKSUMS:
+  mobile-ffmpeg-full: 0da7d44a6f9d5573daec359dafa7537f4682278f
+
+PODFILE CHECKSUM: 01e5ee75eeb0df21918d4e2ba8f05de26b0de209
+
+COCOAPODS: 1.7.5
