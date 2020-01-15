@@ -8,5 +8,7 @@ Open and build the app using workspace file instead of the project file.
 
 ### Related Repositories
 
-- More plain recording only example - https://github.com/mfyz/SwiftScreenRecordWithReplayKit
-- Screen recording and save mp4 only example: https://github.com/mfyz/SwiftScreenRecordAndSaveMp4WithReplayKit
+- More plain recording only example:
+  - https://github.com/mfyz/SwiftScreenRecordWithReplayKit
+- Screen recording and save mp4 only example: 
+  - https://github.com/mfyz/SwiftScreenRecordAndSaveMp4WithReplayKit
